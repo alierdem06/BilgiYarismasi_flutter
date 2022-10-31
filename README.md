@@ -1,0 +1,2 @@
+# BilgiYarismasi
+Bilgi yarışması uygulaması
