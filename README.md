@@ -1,7 +1,7 @@
 # BilgiYarismasi
 Bilgi yarışması uygulaması
 
-
+<img src="https://github.com/alierdem06/BilgiYarismasi/blob/main/preview.png" width="auto">
 
 
 
